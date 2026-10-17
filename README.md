@@ -1,2 +1,0 @@
-# Typescript-course
-# Typescript-course
